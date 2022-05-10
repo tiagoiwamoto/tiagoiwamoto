@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </div>  
 
 <h2>Aprendendo...</h2>
@@ -22,6 +22,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoiwamoto&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoiwamoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>  
+
+<h2>Badges</h2>
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS - Solutions architech" width="150" />
+<img src="https://d2rk2h66n2yut0.cloudfront.net/card_badges/images/000/001/245/large/open-uri20210111-24-19c6ch5?1610364007" title="Gitlab - 101" width="150" />
+
 
 <h2>Hobbies</h2>  
 <img src="https://i.pinimg.com/originals/e8/72/c2/e872c230a23c8279010ce97d52046e5f.gif" title="Aprender" width="150" />
