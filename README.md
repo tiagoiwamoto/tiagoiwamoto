@@ -10,8 +10,8 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
 
 <table>
     <tr>
-        <td><img height="75em" src="./assets/aws.png" /></td>
-        <td><img height="75em" src="./assets/azure.png" /></td>
+        <td><img height="75em" src="assets/aws.png" /></td>
+        <td><img height="75em" src="assets/azure.png" /></td>
     </tr>
     <tr>
         <td>AWS</td>
@@ -21,10 +21,10 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
 
 <table>
     <tr>
-        <td><img height="75em" src="./assets/java.png" /></td>
-        <td><img height="75em" src="./assets/springboot.png" /></td>
-        <td><img height="75em" src="./assets/golang.svg" /></td>
-        <td><img height="75em" src="./assets/rust.png" /></td>
+        <td><img height="75em" src="assets/java.png" /></td>
+        <td><img height="75em" src="assets/springboot.png" /></td>
+        <td><img height="75em" src="assets/golang.svg" /></td>
+        <td><img height="75em" src="assets/rust.png" /></td>
     </tr>
     <tr>
         <td>Java</td>
@@ -36,9 +36,9 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
 
 <table>
     <tr>
-        <td><img height="75em" src="./assets/python.png" /></td>
-        <td><img height="75em" src="./assets/ruby.png" /></td>
-        <td><img height="75em" src="./assets/rails.png" /></td>
+        <td><img height="75em" src="assets/python.png" /></td>
+        <td><img height="75em" src="assets/ruby.png" /></td>
+        <td><img height="75em" src="assets/rails.png" /></td>
     </tr>
     <tr>
         <td>Python</td>
@@ -49,8 +49,8 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
 
 <table>
     <tr>
-        <td><img height="75em" src="./assets/angular.png" /></td>
-        <td><img height="75em" src="./assets/vuejs.png" /></td>
+        <td><img height="75em" src="assets/angular.png" /></td>
+        <td><img height="75em" src="assets/vuejs.png" /></td>
     </tr>
     <tr>
         <td>Angular</td>
