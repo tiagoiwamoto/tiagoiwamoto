@@ -8,7 +8,7 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
 
 ## Habilidades
 
-<table border="0">
+<table style="border: none;">
     <tr>
         <td><img height="75em" src="./assets/aws.png" /></td>
         <td><img height="75em" src="./assets/azure.png" /></td>
