@@ -8,7 +8,7 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
 
 ## Habilidades
 
-<table>
+<table border="0">
     <tr>
         <td><img height="75em" src="./assets/aws.png" /></td>
         <td><img height="75em" src="./assets/azure.png" /></td>
@@ -17,9 +17,6 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
         <td>AWS</td>
         <td>Azure</td>
     </tr>
-</table>
-
-<table>
     <tr>
         <td><img height="75em" src="./assets/java.png" /></td>
         <td><img height="75em" src="./assets/springboot.png" /></td>
@@ -32,9 +29,6 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
         <td>Golang</td>
         <td>Rust</td>
     </tr>
-</table>
-
-<table>
     <tr>
         <td><img height="75em" src="./assets/python.png" /></td>
         <td><img height="75em" src="./assets/ruby.png" /></td>
@@ -45,9 +39,6 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
         <td>Ruby</td>
         <td>Rails</td>
     </tr>
-</table>
-
-<table>
     <tr>
         <td><img height="75em" src="./assets/angular.png" /></td>
         <td><img height="75em" src="./assets/vuejs.png" /></td>
@@ -128,6 +119,8 @@ Formado em analise de sistemas, com pós graduação em arquitetura de sistemas 
         <td>+200 horas</td>
     </tr>
 </table>
+
+
 
 <h2>Status</h2>
 <div>
