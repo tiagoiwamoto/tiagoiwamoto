@@ -76,7 +76,6 @@ My current research interests include AI-assisted software development, Specific
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
@@ -157,17 +156,20 @@ My current research interests include AI-assisted software development, Specific
 
 ---
 
+
 ## 🎓 Formação Acadêmica
 
 | Formação | Instituição | Status |
 |---|---|---|
-| 🎓 Mestrado em Inteligência Artificial | AGTU | Em andamento |
-| 🎓 Bacharelado em Engenharia de Sistemas | UNICIV | Em andamento |
-| 🎓 Pós-graduação em Desenvolvimento de Aplicações com IA | Anhanguera | Em andamento |
-| 🎓 MBA em Arquitetura de Software e Soluções | XP Educação | 2022 |
-| 🎓 Especialização em Arquitetura de Software Java | Faculdade Vincit | 2022 |
-| 🎓 MBA em Business Intelligence | Universidade Positivo | 2019 |
-| 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas | UniOpet | 2018 |
+| 🎓 Mestrado em Inteligência Artificial | AGTU | Em andamento — 2026 a 2028 |
+| 🎓 Bacharelado em Engenharia de Sistemas | UNICIV | Em andamento — 2026 a 2027 |
+| 🎓 Especialização em Cloud Computing | Anhanguera | Concluído em 2026 |
+| 🎓 Especialização em Desenvolvimento de Aplicações de Inteligência Artificial Generativa | Anhanguera | Concluído em 2025 |
+| 🎓 MBA em Arquitetura de Software e Soluções | XP Educação | Concluído em 2022 |
+| 🎓 Especialização em Arquitetura de Software Java | Faculdade Vincit | Concluído em 2022 |
+| 🎓 MBA em Business Intelligence | Universidade Positivo | Concluído em 2019 |
+| 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas | UniOpet | Concluído em 2018 |
+
 
 ---
 
